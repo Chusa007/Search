@@ -1,0 +1,4 @@
+C:\Users\Руслан\Desktop\TestSearchMethod\TestSearchMethod\bin\Debug\TestSearchMethod.exe
+C:\Users\Руслан\Desktop\TestSearchMethod\TestSearchMethod\bin\Debug\TestSearchMethod.pdb
+C:\Users\Руслан\Desktop\TestSearchMethod\TestSearchMethod\obj\x86\Debug\TestSearchMethod.exe
+C:\Users\Руслан\Desktop\TestSearchMethod\TestSearchMethod\obj\x86\Debug\TestSearchMethod.pdb
